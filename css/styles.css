@@ -1,0 +1,126 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+}
+
+.exam-results {
+  height: 142px;
+  width: 142px;
+  margin-top: 92.75px;
+}
+
+.free-sample {
+  background-color: #FFFFFF;
+  border-color: #3CCFD6;
+  border-style: solid;
+  border-width: 12px;
+  height: 612px;
+  width: 599px;
+  display: inline-block;
+  margin-right: 32px;
+}
+
+.included {
+  list-style-image: url('/Users/alexandre/Desktop/Personal Projects/images/Check icon.png');
+  list-style-position: inside;
+  margin-bottom: 0;
+  margin-top: 50px;
+  text-align: left;
+  font-size: 36px;
+}
+
+head {
+  margin: 0;
+}
+
+h1 {
+  width: 1269.52px;
+  margin-left: 0;
+  top: 13.06%;
+  bottom: 83.68%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 96.8025px;
+  line-height: 30px;
+}
+
+h3 {
+  margin-top: 32px;
+}
+
+.header {
+  width: 634.76px;
+  height: 500px;
+  background: linear-gradient(#3CCFD6, #A0EF7E);
+  margin-top: 0;
+}
+
+.lesson {
+  color: #3CCFD6;
+  height: 218px;
+  line-height: 112px;
+  margin-left: 311px;
+  width: 894px;
+}
+
+.locked {
+  list-style-image: url('/Users/alexandre/Desktop/Personal Projects/images/Lock icon.png');
+  list-style-position: inside;
+  margin-top: 0;
+  text-align: left;
+  font-size: 36px;
+}
+
+.plan-button {
+  background: linear-gradient(#3CCFD6, #A0EF7E);
+  border: 0;
+  color: #0F383A;
+  height: 107px;
+  position: absolute;
+  width: 419.88px;
+  border-radius: 9.957574844360352px;
+  margin-top: 656px;
+  font-size: 45.87px;
+  margin-left: -1368.04px;
+  line-height: 29.87px;
+}
+
+.save-time {
+  background-color: #FFFFFF;
+  border-color: #3CCFD6;
+  border-style: solid;
+  border-width: 12px;
+  height: 612px;
+  width: 599px;
+  display: inline-block;
+}
+
+.second-section {
+  height: 1000px;
+  margin: 0;
+  text-align: center;
+}
+
+.starry-eyes {
+  height: 142px;
+  width: 142px;
+  margin-top: 92.75px;
+}
+
+.time {
+  text-decoration-color: #A0EF7E;
+  text-decoration-line: underline;
+}
+
+.top-section {
+  height: auto;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
+}
