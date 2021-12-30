@@ -5,8 +5,12 @@ body {
 }
 
 .background {
-  width: 100%;
-  height: 100%;
+background-color: linear-gradient(to bottom, transparent, #00000080);
+}
+
+.background-img {
+  position: relative;
+  z-index: 0;
 }
 
 .exam-results {
@@ -55,10 +59,21 @@ h3 {
 }
 
 .header {
-  width: 634.76px;
-  height: 500px;
-  background: linear-gradient(#3CCFD6, #A0EF7E);
-  margin-top: 0;
+  width: 40%;
+  height: 300px;
+  background-color: linear-gradient(#3CCFD6, #A0EF7E);
+  background-color: red;
+  margin-top: 5%;
+  line-height: 1.5;
+  font-size: 6.5rem;
+  text-align: left;
+}
+
+.header-text {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-size: 2rem;
+  color: #0F383A;
 }
 
 .lesson {
@@ -67,6 +82,7 @@ h3 {
   line-height: 112px;
   margin-left: 311px;
   width: 894px;
+  padding: 40% auto;
 }
 
 .locked {
@@ -80,15 +96,14 @@ h3 {
 .plan-button {
   background: linear-gradient(#3CCFD6, #A0EF7E);
   border: 0;
-  color: #0F383A;
   height: 107px;
-  position: absolute;
   width: 419.88px;
   border-radius: 9.957574844360352px;
   margin-top: 656px;
   font-size: 45.87px;
-  margin-left: -1368.04px;
   line-height: 29.87px;
+  text-align: center;
+
 }
 
 .save-time {
@@ -105,6 +120,7 @@ h3 {
   height: 1000px;
   margin: 0;
   text-align: center;
+  padding-top: 20%;
 }
 
 .starry-eyes {
@@ -119,8 +135,11 @@ h3 {
 }
 
 .top-section {
-  height: auto;
+  height: 50rem;
   margin-left: 0;
   margin-right: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 0;
   position: relative;
 }
