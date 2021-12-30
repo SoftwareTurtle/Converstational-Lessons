@@ -1,0 +1,146 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+.background {
+background-color: linear-gradient(to bottom, transparent, #00000080);
+}
+
+.background-img {
+  position: relative;
+  z-index: 0;
+}
+
+.exam-results {
+  height: 142px;
+  width: 142px;
+  margin-top: 92.75px;
+}
+
+.free-sample {
+  background-color: #FFFFFF;
+  border-color: #3CCFD6;
+  border-style: solid;
+  border-width: 12px;
+  height: 612px;
+  width: 599px;
+  display: inline-block;
+  margin-right: 32px;
+}
+
+.included {
+  list-style-image: url('/Users/alexandre/Desktop/Personal Projects/images/Check icon.png');
+  list-style-position: inside;
+  margin-bottom: 0;
+  margin-top: 50px;
+  text-align: left;
+  font-size: 36px;
+}
+
+head {
+  margin: 0;
+}
+
+h1 {
+  width: 1269.52px;
+  margin-left: 0;
+  top: 13.06%;
+  bottom: 83.68%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 96.8025px;
+  line-height: 30px;
+}
+
+h3 {
+  margin-top: 32px;
+}
+
+.header {
+  width: 40%;
+  height: 300px;
+  background-color: linear-gradient(#3CCFD6, #A0EF7E);
+  background-color: red;
+  margin-top: 5%;
+  line-height: 1.5;
+  font-size: 6.5rem;
+  text-align: left;
+}
+
+.header-text {
+  font-family: "Josefin Sans";
+  font-weight: 400;
+  font-size: 2rem;
+  color: #0F383A;
+}
+
+.lesson {
+  color: #3CCFD6;
+  height: 218px;
+  line-height: 112px;
+  margin-left: 311px;
+  width: 894px;
+  padding: 40% auto;
+  margin: 40%;
+}
+
+.locked {
+  list-style-image: url('/Users/alexandre/Desktop/Personal Projects/images/Lock icon.png');
+  list-style-position: inside;
+  margin-top: 0;
+  text-align: left;
+  font-size: 36px;
+}
+
+.plan-button {
+  background: linear-gradient(#3CCFD6, #A0EF7E);
+  border: 0;
+  height: 107px;
+  width: 419.88px;
+  border-radius: 9.957574844360352px;
+  margin-top: 43%;
+  font-size: 45.87px;
+  line-height: 29.87px;
+  text-align: center;
+  margin-left: 9%;
+}
+
+.save-time {
+  background-color: #FFFFFF;
+  border-color: #3CCFD6;
+  border-style: solid;
+  border-width: 12px;
+  height: 612px;
+  width: 599px;
+  display: inline-block;
+}
+
+.second-section {
+  height: 1000px;
+  margin: 0;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.starry-eyes {
+  height: 142px;
+  width: 142px;
+  margin-top: 92.75px;
+}
+
+.time {
+  text-decoration-color: #A0EF7E;
+  text-decoration-line: underline;
+}
+
+.top-section {
+  height: 50rem;
+  margin-left: 0;
+  margin-right: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 0;
+  position: relative;
+}
